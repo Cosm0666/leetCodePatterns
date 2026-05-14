@@ -13,4 +13,12 @@
 ## Two Pointers
 | Problem | Difficulty |
 |---|---|
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy |
+| [3Sum](https://leetcode.com/problems/3sum/description/) | Medium |
+| [Container With Most Water](https://leetcode.com/problems/3sum/description/) | Medium |
+| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | Hard |
+| [Two Sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Medium |
 
+##Stacks
+| Problems | Difficulty |
+|---|---|
