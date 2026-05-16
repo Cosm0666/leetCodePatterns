@@ -31,3 +31,13 @@
 ## Binary Search
 | Problems | Difficulty |
 |---|---|
+| [Binary Search](https://leetcode.com/problems/binary-search/description/) | Easy |
+| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Medium |
+| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Medium |
+| [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | Medium |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | Hard |
+
+## Sliding Window
+| Problem | Difficulty |
+|---|---|
+
