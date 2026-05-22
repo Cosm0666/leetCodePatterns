@@ -67,6 +67,15 @@
 ## Heap/Priority Queue
 | Problem | Difficulty | 
 |---|---|
+| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium |
+| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |
+| [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard |
+| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard |
+
+## Backtracking
+| Problem | Difficulty |
+|---|---|
 
 
 
