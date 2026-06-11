@@ -76,6 +76,17 @@
 ## Backtracking
 | Problem | Difficulty |
 |---|---|
+| [Subsets](https://leetcode.com/problems/subsets/) | Medium |
+| [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |
+| [Permutations](https://leetcode.com/problems/permutations/) | Medium |
+| [Word Search](https://leetcode.com/problems/word-search/) | Medium |
+| [N-Queens](https://leetcode.com/problems/n-queens/) | Hard |
+
+## Tries
+| Problem | Difficulty |
+|---|---|
+
+
 
 
 
