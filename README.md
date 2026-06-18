@@ -85,6 +85,12 @@
 ## Tries
 | Problem | Difficulty |
 |---|---|
+| [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium |
+| [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium |
+| [Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |
+| [Replace Words](https://leetcode.com/problems/replace-words/) | Medium |
+
 
 
 
